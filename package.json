@@ -1,0 +1,15 @@
+{
+  "name": "gitbook-plugin-images-version",
+  "version": "1.0.0",
+  "description": "Add images version for gitbook",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "gitbook": ">=2.4.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "urijs": "^1.19.1"
+  }
+}
