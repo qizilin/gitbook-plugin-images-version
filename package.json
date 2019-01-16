@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-images-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add images version for gitbook",
   "main": "index.js",
   "keywords": [],
