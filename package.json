@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-images-version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add images version for gitbook",
   "main": "index.js",
   "keywords": [],
@@ -10,8 +10,8 @@
   },
   "homepage": "https://github.com/qizilin/gitbook-plugin-images-version",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/qizilin/gitbook-plugin-images-version.git"
+    "type": "git",
+    "url": "https://github.com/qizilin/gitbook-plugin-images-version.git"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
